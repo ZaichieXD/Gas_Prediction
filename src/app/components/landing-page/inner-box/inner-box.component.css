@@ -1,0 +1,9 @@
+.inner-box{
+  display: flex;
+  width: 60%;
+  height: 55%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(50, 87, 102);
+  background-color: rgb(89, 160, 188);
+}

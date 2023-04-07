@@ -1,0 +1,22 @@
+.inner-description{
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  border-width: 1px;
+  border-right-width: 2px;
+  border-color: rgb(50, 87, 102);
+  background-color: rgb(75, 143, 172);
+  width: 250px;
+  height: 100%;
+  border-style: solid;
+  justify-content: center;
+  text-align: center;
+}
+
+.inner-description h3{
+  padding: 0px 8px;
+}
+
+.inner-description p{
+  margin: 5px;
+}
